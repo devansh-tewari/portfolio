@@ -87,6 +87,9 @@ h3{
   display: inline-block;
   margin-top: 20px;
   border-radius: 100%;
+  border-style: solid;
+  border-width:thick;
+  border-color:lightskyblue;
   height: 300px;
   width: 300px;
 }
